@@ -1,0 +1,259 @@
+[
+    {
+        "produto" : "Samsung Galaxy A33 5G Dual SIM 128 GB preto 6 GB RAM",
+        "preco" : 1.699,
+        "vendedor" : "Vendido por 123 Comprou",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_646172-MLA49998621670_052022-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_NQ_NP_818640-MLA49998787189_052022-S.webp",
+                "https://http2.mlstatic.com/D_NQ_NP_902078-MLA49999024834_052022-S.webp",
+                "https://http2.mlstatic.com/D_NQ_NP_989513-MLA49998619723_052022-S.webp",
+                "https://http2.mlstatic.com/D_NQ_NP_777325-MLA49999317803_052022-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy A03 Dual SIM 64 GB azul 4 GB RAM",
+        "preco" : 948,
+        "vendedor" : "Vendido por VIKING",
+        "estrelas" : 4,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_614015-MLA52131271761_102022-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_NQ_NP_606278-MLA52131271762_102022-S.webp", 
+                "https://http2.mlstatic.com/D_NQ_NP_763641-MLA52132686971_102022-S.webp",
+                "https://http2.mlstatic.com/D_NQ_NP_854893-MLA52131045201_102022-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Smartphone Infinix Note 12 Pro 256 Gb Dual Chip 8gb Ram",
+        "preco" : 1.979,
+        "vendedor" : "Vendido por Infinix",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_659835-MLB52323275713_112022-V.webp",
+            "variacoes" : [
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy A03s Dual SIM 64 GB preto 4 GB RAM",
+        "preco" : 989,
+        "vendedor" : "Vendido por VIKING",
+        "estrelas" : 3,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_822006-MLA48160649416_112021-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_Q_NP_686192-MLA48160590766_112021-S.webp", 
+                "https://http2.mlstatic.com/D_Q_NP_825519-MLA48160590750_112021-S.webp",
+                "https://http2.mlstatic.com/D_Q_NP_683681-MLA48160649404_112021-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy A20 Dual SIM 32 GB azul 3 GB RAM",
+        "preco" : 899,
+        "vendedor" : "Vendido por Webfones",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_667568-MLA49703439647_042022-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_Q_NP_942989-MLA44156215185_112020-S.webp", 
+                "https://http2.mlstatic.com/D_Q_NP_990967-MLA31848171689_082019-S.webp",
+                "https://http2.mlstatic.com/D_Q_NP_904379-MLA31838046651_082019-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Philco Hit P8 Dual SIM 32 GB dark blue 3 GB RAM",
+        "preco" : 549,
+        "vendedor" : "Vendido por 123 Comprou",
+        "estrelas" : 1,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_940696-MLA44156216164_112020-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_NQ_NP_962221-MLA49902088125_052022-S.webp",  
+                "https://http2.mlstatic.com/D_NQ_NP_670799-MLA50044616129_052022-S.webp" 
+            ]
+        }
+    },
+    {
+        "produto" : "Smartphone Motorola Moto G22 128 Gb 4 Gb Ram Preto",
+        "preco" : 1.069,
+        "vendedor" : "Vendido por COMMCENTER",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_733809-MLA49902030760_052022-V.webp",
+            "variacoes" : [
+            ]
+        }
+    },
+    {
+        "produto" : "Multilaser Zapp Dual SIM 512 MB preto 256 MB RAM",
+        "preco" : 238,
+        "vendedor" : "Vendido por Webfones",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_767214-MLB50112089288_052022-V.webp",
+            "variacoes" : [
+            ]
+        }
+    },
+    {
+        "produto" : "Xiaomi Pocophone Poco X4 Pro 5G Dual SIM 128 GB laser black 6 GB RAM",
+        "preco" : 1.911,
+        "vendedor" : "Vendido por Mega Mamute",
+        "estrelas" : 4,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_806948-MLA41827553735_052020-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_NQ_NP_630584-MLA52131129267_102022-S.webp" 
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy Z Fold3 5G Dual SIM 256 GB verde 12 GB RAM",
+        "preco" : 7.499,
+        "vendedor" : "VENDIDO",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_928387-MLA43169797539_082020-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_Q_NP_914686-MLA47891186589_102021-S.webp", 
+                "https://http2.mlstatic.com/D_Q_NP_914686-MLA47891186589_102021-S.webp",
+                "https://http2.mlstatic.com/D_Q_NP_914686-MLA47891186589_102021-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy S20 FE 5G 128 GB cloud navy 6 GB RAM",
+        "preco" : 2.268,
+        "vendedor" : "Vendido por Mercado Livre",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_814611-CBT53126806810_012023-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_NQ_NP_823998-MLA50131748530_052022-S.webp", 
+                "https://http2.mlstatic.com/D_Q_NP_658507-MLA44281674445_122020-S.webp",
+                "https://http2.mlstatic.com/D_Q_NP_874221-MLA44281674511_122020-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Xiaomi Redmi Note 10 Dual SIM 128 GB lake green 4 GB RAM",
+        "preco" : 1.469,
+        "vendedor" : "Vendido por Mobcom",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_908119-MLA52131129264_102022-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_Q_NP_641051-MLA46168332981_052021-S.webp", 
+                "https://http2.mlstatic.com/D_Q_NP_641051-MLA46168332981_052021-S.webp",
+                "https://http2.mlstatic.com/D_Q_NP_641051-MLA46168332981_052021-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy Z Flip3 5G 128 GB phantom black 8 GB RAM",
+        "preco" : 3.889,
+        "vendedor" : "Vendido por Mercado Livre",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_867986-MLA47891186676_102021-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_Q_NP_620229-MLA47887504663_102021-S.webp", 
+                "https://http2.mlstatic.com/D_Q_NP_756703-MLA47887379966_102021-S.webp",
+                "https://http2.mlstatic.com/D_Q_NP_827904-MLA47887556606_102021-S.webp",
+                "https://http2.mlstatic.com/D_Q_NP_780250-MLA47887504650_102021-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Celular Positivo P28b 32 Mb Dual Chip 2,8 Câmera Vga Preto",
+        "preco" : 165,
+        "vendedor" : "Vendido por We Market",
+        "estrelas" : 3,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_860222-MLA46927104361_072021-V.webp",
+            "variacoes" : [
+            ]
+        }
+    },
+    {
+        "produto" : "Telefone Celular Antigo Para Idosos Barato LG Novo",
+        "preco" : 160,
+        "vendedor" : "Vendido por Asus",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_876363-MLA40507659966_012020-V.webp",
+            "variacoes" : [
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy M23 5G 128 GB orange copper 6 GB RAM",
+        "preco" : 1.599,
+        "vendedor" : "Vendido por 123 Comprou",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_716191-MLA44281674442_122020-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_NQ_NP_936452-MLA50969338177_082022-S.webp", 
+                "https://http2.mlstatic.com/D_NQ_NP_869342-MLA50969338468_082022-S.webp",
+                "https://http2.mlstatic.com/D_NQ_NP_986242-MLA50969346533_082022-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Positivo P26 Dual SIM 32 MB preto 32 MB RAM",
+        "preco" : 92,
+        "vendedor" : "",
+        "estrelas" : 2,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_641051-MLA46168332981_052021-V.webp",
+            "variacoes" : [
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy S10e Dual SIM 128 GB prism blue 6 GB RAM",
+        "preco" : 2.999,
+        "vendedor" : "Mr TECH",
+        "estrelas" : 4,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_903278-MLA47887504649_102021-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_Q_NP_883615-MLA31578002484_072019-S.webp", 
+                "https://http2.mlstatic.com/D_Q_NP_788531-MLA44478784525_012021-S.webp",
+                "https://http2.mlstatic.com/D_Q_NP_709557-MLA31578567120_072019-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Motorola One Zoom Dual SIM 128 GB bronze 4 GB RAM",
+        "preco" : 1.567,
+        "vendedor" : "loja do celular",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_996556-MLB50316969467_062022-V.webp",
+            "variacoes" : [
+                "https://http2.mlstatic.com/D_Q_NP_737177-MLA40125977612_122019-S.webp", 
+                "https://http2.mlstatic.com/D_Q_NP_873148-MLA40126154372_122019-S.webp"
+            ]
+        }
+    },
+    {
+        "produto" : "Samsung Galaxy A8 (2018) Dual SIM 64 GB dourado 4 GB RAM",
+        "preco" : 999,
+        "vendedor" : "SA celulares",
+        "estrelas" : 5,
+        "imagens" : {
+            "principal" : "https://http2.mlstatic.com/D_NQ_NP_745539-MLB50513378313_062022-V.webp",
+            "variacoes" : [
+            ]
+        }
+    }
+]
